@@ -1,4 +1,4 @@
-# Algorithms-Python
+# Algorithms - Python
 
 Algorithms are implemented using pure python. I have written codes for different algorithms when I first started to learn them. 
 
