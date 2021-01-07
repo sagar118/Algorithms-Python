@@ -6,7 +6,9 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
 
 ## Search
    - [Linear Search](https://github.com/sagar118/Algorithms-Python/blob/main/Search/linear_search.py)
+   - [Binary Search](https://github.com/sagar118/Algorithms-Python/blob/main/Search/binary_search.py)
 ## Sort
   - [Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sorting/insertion_sort.py)
   - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sorting/selection_sort.py)
   - [Merge Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/merge_sort.py)
+  - [Bubble Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/bubble_sort.py)
