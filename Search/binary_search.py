@@ -4,6 +4,8 @@ A pure python implementation of binary search
 
 def binary_search(arr: list, low: int, high: int, target: int) -> int:
     """
+    Recursive implementation of binary search
+    
     Params:
         arr: A mutable collection in sorted order (ascending)
         low: Lower bound

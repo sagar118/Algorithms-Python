@@ -14,3 +14,4 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
   - [Bubble Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/bubble_sort.py)
   - [Recursive Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/recursive_insertion_sort.py)
   - [Merge Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/merge_insertion_sort.py)
+  - [Heap Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/heap_sort.py)
