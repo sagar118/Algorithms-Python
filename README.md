@@ -18,4 +18,4 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
   - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/selection_sort.py)
 
 ## Queue
-   - [Max Priority Queue using Heap]((https://github.com/sagar118/Algorithms-Python/blob/main/Queue/max_priority_queue.py))
+   - [Max Priority Queue using Heap](https://github.com/sagar118/Algorithms-Python/blob/main/Queue/max_priority_queue.py)
