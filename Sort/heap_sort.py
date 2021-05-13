@@ -1,5 +1,6 @@
 """
-A pure python implementation of heap sort algorithm.
+A pure python implementation of heap sort algorithm. Here, we have sorted the input using the 
+max heap property.
 """
 
 def max_heapify(arr, index, heap_size):
