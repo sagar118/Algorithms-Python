@@ -14,7 +14,7 @@ Alternatively, a min-priority queue supports the oprations Insert, Minimum, Extr
 Decrease-Key.
 """
 
-def heap_maximum(arr):
+def heap_maximum(arr: list) -> int:
     """
     Retuns the maximum value in the heap in case of max-heap i.e. at the root of the heap.
 
@@ -26,7 +26,7 @@ def heap_maximum(arr):
     """
     return arr[0]
 
-def max_heapify(arr, index, heap_size):
+def max_heapify(arr: list, index: int, heap_size: int) -> list:
     """
     This function is responsible maintain the max heap sort property.
 
@@ -54,7 +54,7 @@ def max_heapify(arr, index, heap_size):
         max_heapify(arr, largest, heap_size)
     return arr
 
-def heap_extract_max(arr, heap_size):
+def heap_extract_max(arr: list, heap_size: int) -> int and list:
     """
     Extracts and removes the maximum value from the heap i.e. the root value. After removing the 
     maximum value the max_heapify function is called to maintain the max heap property.
@@ -79,7 +79,7 @@ def heap_extract_max(arr, heap_size):
     print(arr)
     return maximum, arr
 
-def find_parent_index(index):
+def find_parent_index(index: int) -> int:
     """
     Finds the parent index of any given node.
     
@@ -95,7 +95,7 @@ def find_parent_index(index):
         parent_index = index//2
     return parent_index
 
-def heap_increase_key(arr, index, key):
+def heap_increase_key(arr: list, index: int, key: int) -> list:
     """
     Increases the value of the node based on the index with the given key value. The key value 
     should be more than the current node value otherwise an error is thrown.
@@ -120,7 +120,7 @@ def heap_increase_key(arr, index, key):
         parent_index = find_parent_index(index)
     return arr
 
-def max_heap_insert(arr, key, heap_size):
+def max_heap_insert(arr: list, key: int, heap_size: int) -> list:
     """
     Inserts a new value to the heap. After the value is added heap_increase_key is called to 
     maintain the max heap property.
@@ -139,7 +139,7 @@ def max_heap_insert(arr, key, heap_size):
     heap_increase_key(arr, heap_size, key)
     return arr
 
-def options(option, arr):
+def options(option: int, arr: list) -> int or list:
     """
     Function which is a switch case, handles which function needs to be called based on the user 
     input.
@@ -170,7 +170,6 @@ def options(option, arr):
     return func()
 
 if __name__ == '__main__':
-    from doctest import testmod
 
     user_input = input("Enter numbers separated by commas:\n").strip()
     collection = [int(item.strip()) for item in user_input.split(",")]

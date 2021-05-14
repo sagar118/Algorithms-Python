@@ -14,6 +14,8 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
   - [Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/insertion_sort.py)
   - [Merge Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/merge_sort.py)
   - [Merge Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/merge_insertion_sort.py)
+  - [Quick Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/quick_sort.py)
+  - [Randomized Quick Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/randomized_quick_sort.py)
   - [Recursive Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/recursive_insertion_sort.py)
   - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/selection_sort.py)
 

@@ -3,7 +3,7 @@ A pure python implementation of heap sort algorithm. Here, we have sorted the in
 max heap property.
 """
 
-def max_heapify(arr, index, heap_size):
+def max_heapify(arr: list, index: int, heap_size: int) -> None:
     """
     This function is responsible maintain the max heap sort property.
 
@@ -27,7 +27,7 @@ def max_heapify(arr, index, heap_size):
         arr[index], arr[largest] = arr[largest], arr[index]
         max_heapify(arr, largest, heap_size)
 
-def build_max_heap(arr):
+def build_max_heap(arr: list) -> None:
     """
     This function is responsible to build the max heap from an unsorted array
     
@@ -38,7 +38,7 @@ def build_max_heap(arr):
     for index in range(len(arr)//2-1, -1, -1):
         max_heapify(arr, index, heap_size)
 
-def heap_sort(arr):
+def heap_sort(arr: list) -> list:
     """
     This function is responsible to sort the input using the heap sort technique. Heap sort is a 
     technique that sorts the input in place.
