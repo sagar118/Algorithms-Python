@@ -10,6 +10,7 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
 
 ## Sort
   - [Bubble Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/bubble_sort.py)
+  - [Bucket Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/bucket_sort.py)
   - [Counting Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/counting_sort.py)
   - [Heap Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/heap_sort.py)
   - [Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/insertion_sort.py)
