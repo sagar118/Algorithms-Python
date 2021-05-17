@@ -4,6 +4,16 @@ Algorithms are implemented using pure python. I have written codes for different
 
 Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for reference while learning. A special thanks to the focks contributing in above mention repo. 
 
+## Data Structures
+   - Stack
+      - [Stack](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Stacks/stack.py)
+   
+   - Queue
+      - [Circular Queue](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Queue/circular_queue.py)
+
+   - Heap
+      - [Max Priority Queue using Heap](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Heap/max_priority_queue.py)
+
 ## Search
    - [Binary Search](https://github.com/sagar118/Algorithms-Python/blob/main/Search/binary_search.py)
    - [Linear Search](https://github.com/sagar118/Algorithms-Python/blob/main/Search/linear_search.py)
@@ -20,7 +30,4 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
   - [Radix Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/radix_sort.py)
   - [Randomized Quick Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/randomized_quick_sort.py)
   - [Recursive Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/recursive_insertion_sort.py)
-  - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/selection_sort.py)
-
-## Queue
-   - [Max Priority Queue using Heap](https://github.com/sagar118/Algorithms-Python/blob/main/Queue/max_priority_queue.py)
+  - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/selection_sort.py)   
