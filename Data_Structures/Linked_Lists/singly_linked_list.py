@@ -1,3 +1,6 @@
+"""
+A pure python implementation of singly linked list.
+"""
 
 class Node:
     def __init__(self, data):
