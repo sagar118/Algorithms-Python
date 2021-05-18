@@ -5,14 +5,17 @@ Algorithms are implemented using pure python. I have written codes for different
 Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for reference while learning. A special thanks to the focks contributing in above mention repo. 
 
 ## Data Structures
-   - Stack
-      - [Stack](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Stacks/stack.py)
-   
-   - Queue
-      - [Circular Queue](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Queue/circular_queue.py)
-
    - Heap
       - [Max Priority Queue using Heap](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Heap/max_priority_queue.py)
+   
+   - Linked List
+      - [Singly Linked List](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Linked_Lists/singly_linked_list.py)
+
+   - Queue
+      - [Circular Queue](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Queue/circular_queue.py)
+   
+   - Stack
+      - [Stack](https://github.com/sagar118/Algorithms-Python/blob/main/Data_Structures/Stacks/stack.py) 
 
 ## Search
    - [Binary Search](https://github.com/sagar118/Algorithms-Python/blob/main/Search/binary_search.py)
