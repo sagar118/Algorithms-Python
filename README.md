@@ -10,3 +10,6 @@ Used [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) for referen
 ## Sort
   - [Insertion Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/insertion_sort.py)
   - [Selection Sort](https://github.com/sagar118/Algorithms-Python/blob/main/Sort/selection_sort.py)   
+
+## Exercise Problems:
+  - [Add two n-bit binary integers](https://github.com/sagar118/Algorithms-Python/blob/main/Exercise_problems/Add_two_n_bit_binary_integers.py)
